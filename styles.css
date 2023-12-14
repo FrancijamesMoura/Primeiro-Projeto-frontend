@@ -1,0 +1,77 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 47px 0 177px 42px;
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #949eb3;
+    cursor: pointer;
+    margin-right: 25px;
+}
+
+.button-header {
+    border-radius: 30px;
+    background: #6FBF44;
+    width: 124px;
+    height: 51px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.imagem-logo {
+    width: 595.178px;
+    height: 500.005px;
+    margin-left: 121px;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    margin-left: 82px;
+}
+
+h1 {
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    width: 582px;
+}
+
+p {
+    color: #4B505A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.button-main {
+    border-radius: 30px;
+    background: #6FBF44;
+    width: 124px;
+    height: 51px;
+    border: none;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    cursor: pointer;
+    margin-left: 150px;
+    margin-bottom: 5%;
+}
